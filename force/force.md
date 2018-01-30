@@ -30,7 +30,7 @@ contract ForceEth {
 	address private forceContract; 
 
 	// constructor
-	// insert contract address as constructor argument (returned from calling 'instance' in JS console above)
+	// insert contract address as constructor parameter (returned from calling 'instance' in JS console above)
 	function ForceEth(address _addr) public payable {
 		forceContract = _addr;
 	}
