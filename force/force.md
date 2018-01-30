@@ -54,5 +54,5 @@ back to the console!
 ---
 
 ```javascript
-await getBalance(instance) // => returns whatever amount of eth you passed in when deploying the ForceEth contract
+await getBalance(instance) // => returns whatever amount of eth you passed in when deploying the ForceEth contract...no longer 0!
 ```
