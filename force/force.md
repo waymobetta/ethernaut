@@ -1,6 +1,6 @@
 force 
 
-// contract has no logic build it; empty contract
+// contract has no logic built in it; empty contract
 
 // this does NOT mean that contract cannot have a balance > 0!
 
