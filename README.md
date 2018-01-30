@@ -12,3 +12,4 @@ helpful resources:
 - https://github.com/ConsenSys/smart-contract-best-practices/blob/master/docs/known_attacks.md
 - https://github.com/ConsenSys/Ethereum-Development-Best-Practices/wiki
 - https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7 
+- https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI
