@@ -1,7 +1,9 @@
 delegation
 
 // send transaction to delegate contract
-- _delegatecall_ method allows contract can dynamically load code from different address at runtime
+
+// _delegatecall_ method allows contract can dynamically load code from different address at runtime
+
 NOTE: _delegatecall_ *can change state*
 
 ```javascript

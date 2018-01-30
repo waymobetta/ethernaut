@@ -1,7 +1,9 @@
 fallback
 
 // need to cause fallback function to be invoked; this will make attacker owner and allow withdraw to be called
+
 // we do not known owner's contribution amount
+
 // send ether with .sendTransaction({}) method
 
 ```javascript
