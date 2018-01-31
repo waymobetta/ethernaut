@@ -4,7 +4,7 @@ force
 
 // this does NOT mean that contract cannot have a balance > 0!
 
-// though contract is not explicitly payable, contract CAN still receive funds via the recipient of a selfdestruct being called on another function
+// though contract is not explicitly payable, contract CAN still receive funds as the recipient of a selfdestruct being called on another function
 
 
 *contracts attacking contracts*
